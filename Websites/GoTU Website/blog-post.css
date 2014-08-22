@@ -1,0 +1,88 @@
+.main {
+	width: 900px;
+	height: 2000px;
+	overflow: auto;
+	margin: 1x 0px 0px 0px;
+}
+
+.topics-padding {
+	padding: 0px 3px 0px 3px;
+}
+
+.list-text-size {
+	font-size: 13px;
+}
+
+#blog {
+	width: 900px;
+	min-height: 500px;
+	overflow: auto;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#blog .post-body {
+	width: 725px;
+	float: left;
+}
+
+#blog .post-title {
+	width: 725px;
+	height: 29px;
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+#blog .post-subtitle {
+	width: 725px;
+	font-size: 12px;
+}
+
+#blog .post-date {
+	width: 635px;
+	height: 14px;
+	margin: 0px 0px 25px 0px;
+	float: left;
+}
+
+#blog.post-comments {
+	width: 75px;
+	font-size: 12px;
+	float: right;
+}
+
+#blog .post-image {
+	width: 725px;
+	max-height: 500px;
+}
+
+#blog .post-content {
+	width: 725px;
+	margin: 25px 0px 0px 0px;
+	line-height: 175%;
+}
+
+#blog .read-more {
+	width: 725px;
+	height: 14px;
+	margin: 25px 0px 25px 0px;
+	text-align: right;
+}
+
+#blog .topics {
+	width: 145px;
+	height: auto;
+	margin-left: 15px;
+	float: right;
+	border: #ABC8A8;
+	border-style: ridge;
+	border-width: 5px;
+}
+
+.dotted-line {
+	width: 725px;
+	height: 5px;
+	border: grey;
+	border-style: dashed;
+	border-width: 0px 0px 2px 0px;
+}

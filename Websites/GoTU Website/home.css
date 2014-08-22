@@ -1,0 +1,101 @@
+p {
+	color: black;
+}
+
+body {
+	width: 900px;
+	margin: 0 auto;
+	background-color: #E0FDDD;
+}
+
+.left {
+	text-align: left;
+}
+
+.left-news {
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.paramargins {
+	margin: 0 auto;
+}
+
+.header_image {
+	margin: 5px 0px 5px 0px;
+	border: #ABC8A8;
+	border-style: ridge;
+	border-width: 6px;
+	height: 300px;
+}
+
+#intro {
+	width: auto;
+	height: 385px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+
+#intro .intro-p {
+	width: 435px;
+	height: auto;
+	float: left;
+}
+
+#intro .intro-twitter {
+	width: 440px;
+	height: auto;
+	padding-top: 15px;
+	float: right;
+}
+
+#news {
+	width: 892px;
+	height: 250px;
+	padding-bottom: 20px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+	border: #ABC8A8;
+	border-style: ridge;
+	border-width: 4px;
+}
+
+#news .linkit-news-left {
+	width: 724px;
+	padding-left: 10px;
+	padding-right: 10px;
+	float: left;
+}
+
+#news .linkit-news-right {
+	width: 128px; /* image width is 128 so plus 10 for the padding on each side*/
+	padding-left: 10px;
+	padding-right: 10px;
+	float: right;
+}
+
+#latest {
+	width: 900px;
+	margin-bottom: 75px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#latest .tech_u-posts {
+	width: 425px;
+	padding-right: 10px;
+	float: left;
+}
+
+#latest .dev_corner-posts {
+	width: 425px;
+	padding-left: 10px;
+	float: right;
+}

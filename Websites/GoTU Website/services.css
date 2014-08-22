@@ -1,0 +1,85 @@
+#intro-services {
+	width: 900px;
+	margin-top: 15px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#social-media {
+	width: inherit;
+	margin-top: 65px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+	height: 225px;
+}
+
+#social-media .smleft {
+	width: 270px;
+	float: left;
+}
+
+#social-media .smright {
+	width: 590px;
+	float: right;
+}
+
+#android-dev {
+	width: 900px;
+	height: 249px;
+	margin-top: 65px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#android-dev .adleft {
+	width: 610px;
+	margin-right: 10px;
+	float: left;
+}
+
+#android-dev .adright {
+	width: 249px;
+	margin-left: 10px;
+	float: right;
+}
+
+#tech-use {
+	width: inherit;
+	height: 242px;
+	margin-top: 65px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#tech-use .tuleft {
+	width: 363px;
+	float: left;
+}
+
+#tech-use .turight {
+	width: 497px;
+	float: right;
+}
+
+#graph-des {
+	width: inherit;
+	height: 325px;
+	margin-top: 65px;
+	font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#graph-des .gdleft {
+	width: 388px;
+	float: left;
+}
+
+#graph-des .gdright {
+	width: 472px;
+	float: right;
+	padding: 0px 0px 0px 40px;
+}
+
+#graph-des .gdbottom {
+	width: inherit;
+}

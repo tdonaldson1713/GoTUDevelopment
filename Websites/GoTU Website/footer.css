@@ -1,0 +1,23 @@
+#footer {
+	width: 890px;
+	height: 83px;
+	font-size: 14px;
+	border: #E0FDDD;
+	border-style: ridge;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-top-width: 4px;
+	border-bottom-width: 0px;
+	background: -webkit-linear-gradient(#E0FDDD, #71855f);
+	background: -o-linear-gradient(#E0FDDD, #71855f);
+	background: -moz-linear-gradient(#E0FDDD, #71855f);
+	background: linear-gradient(#E0FDDD, #71855f); /* 71855f*/
+}
+
+#footer .footer-smn {
+	float: left;
+	width: 296px;
+	height: 16px;
+	padding-top: 60px;
+	text-align: center;
+}
